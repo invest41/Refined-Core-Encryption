@@ -1,0 +1,10 @@
+Django Terminal Message...
+
+The app was terminated due to an Objective-C exception. Details below
+Modifications to the layout engine must not be performed from a background thread after it has been accessed from the main thread.
+
+
+The app was terminated due to an Objective-C exception. Details below:
+
+2020-11-19 02:58:51.774870
+Modifications to the layout engine must not be performed from a background thread after it has been accessed from the main thread.

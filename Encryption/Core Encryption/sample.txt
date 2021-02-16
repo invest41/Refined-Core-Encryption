@@ -1,0 +1,24 @@
+Self-taught programmer and Dental Student with a working principle on Data Science as a concept for problem solving, and Data Analytics for healthcare optimisation
+
+As a Data Analyst, I perform a wide range of technical functions, all tailored towards getting the best result for my clientele
+
+I am experienced in:
+- Python and its extensive Libraries
+- Python enhanced Web Scraping, Web Crawling, HTML, XML, and JSON parsing, for resourceful Data analysis (Beautiful Soup, Scrapy, etc.)
+- Designing Automation Algorithms on Spreadsheets and Relational Databases as well as appropriate Data Set formatting using Python
+- Data Analysis and Visualisation with Python (Pandas, Matplotlib, Seaborn) as well as D3 JavaScript Library and web optimisation with HTML5 and CSS
+- Data Analysis, Visualisation and Reporting with Spreadsheets (Microsoft Excel and Google Sheets)
+- Data Analysis, Dash-boarding Visualisation and Reporting with IBM Cognos
+- Relational Databasing with SQL programming  
+
+I perform optimised functions such as: 
+- Data Gathering and Proper Data Assessment 
+- Data Processing and Cleaning 
+- Machine Learning Model Building and Proper Data formatting 
+- Data analysis and Visualisation  
+
+All the above can be done separately or as a single project for you, I always have your goal and aspiration for a project in mind, and I ALWAYS aim to deliver the best outcome for you...  
+
+My Story: 
+Self-taught and practising programmer with a working principle of Data Analytics as a concept for problem solving. 
+Still on my journey to optimising Data Science in Healthcare...
